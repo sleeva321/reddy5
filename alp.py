@@ -1,5 +1,5 @@
 alp=str(raw_input())
 if ((alp>='a' and alp<='z') or (alp>='A' and alp<='Z')):
-print"Alphabet"
+print"Yes"
 else:
 print"No"
